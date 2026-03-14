@@ -14,3 +14,29 @@ Tools and Libraries Used:
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+## Visualizations
+
+### Total Income Distribution
+![Total Income Distribution](images/Screenshot 2026-03-14 163813.png)
+
+### Loan Approval by Marital Status
+![Loan Approval by Marital Status](images/Screenshot 2026-03-14 164453.png)
+
+### Loan Approval by Education
+![Loan Approval by Education](images/Screenshot 2026-03-14 164549.png)
+
+### Loan Amount Distribution
+![Loan Amount Distribution](images/Screenshot 2026-03-14 164608.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/Screenshot 2026-03-14 164632.png)
+
+### Loan Amount vs Loan Status
+![Loan Amount vs Loan Status](images/Screenshot 2026-03-14 164724.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/Screenshot 2026-03-14 164750.png)
+
+### ROC Curve
+![ROC Curve](images/Screenshot 2026-03-14 164810.png)
