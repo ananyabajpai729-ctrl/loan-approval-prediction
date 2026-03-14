@@ -36,7 +36,7 @@ Tools and Libraries Used:
 ![Loan Amount vs Loan Status](images/Screenshot 2026-03-14 164724.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/Screenshot 2026-03-14 164750.png)
+![Confusion Matrix](images/roc_curve.png)
 
 ### ROC Curve
 ![ROC Curve](images/Screenshot 2026-03-14 164810.png)
