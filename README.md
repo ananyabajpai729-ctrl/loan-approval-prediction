@@ -18,7 +18,7 @@ Tools and Libraries Used:
 ## Visualizations
 
 ### Total Income Distribution
-![Total Income Distribution](images/Screenshot%2026-03-14%163813.png)
+![Total Income Distribution](images/Screenshot%2026-03-14163813.png)
 
 ### Loan Approval by Marital Status
 ![Loan Approval by Marital Status](images/Screenshot 2026-03-14 164453.png)
