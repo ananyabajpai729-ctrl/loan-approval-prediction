@@ -27,16 +27,16 @@ Tools and Libraries Used:
 ![Loan Approval by Education](images/Screenshot 2026-03-14 164549.png)
 
 ### Loan Amount Distribution
-![Loan Amount Distribution](images/Screenshot 2026-03-14 164608.png)
+![Loan Amount Distribution](images/loan_dist.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/Screenshot 2026-03-14 164632.png)
+![Correlation Heatmap](images/corr_mat.png)
 
 ### Loan Amount vs Loan Status
-![Loan Amount vs Loan Status](images/Screenshot 2026-03-14 164724.png)
+![Loan Amount vs Loan Status](loanamt_vs_loanstat.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/roc_curve.png)
+![Confusion Matrix](images/confusion_mat.png)
 
 ### ROC Curve
-![ROC Curve](images/Screenshot 2026-03-14 164810.png)
+![ROC Curve](images/roc_curve.png)
