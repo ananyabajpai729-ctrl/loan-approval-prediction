@@ -18,13 +18,13 @@ Tools and Libraries Used:
 ## Visualizations
 
 ### Total Income Distribution
-![Total Income Distribution](images/Screenshot%2026-03-14163813.png)
+![Total Income Distribution](images/total_inc_dist.png)
 
 ### Loan Approval by Marital Status
-![Loan Approval by Marital Status](images/Screenshot 2026-03-14 164453.png)
+![Loan Approval by Marital Status](images/loanapp_mar.png)
 
 ### Loan Approval by Education
-![Loan Approval by Education](images/Screenshot 2026-03-14 164549.png)
+![Loan Approval by Education](images/loanapp_edu.png)
 
 ### Loan Amount Distribution
 ![Loan Amount Distribution](images/loan_dist.png)
@@ -33,7 +33,7 @@ Tools and Libraries Used:
 ![Correlation Heatmap](images/corr_mat.png)
 
 ### Loan Amount vs Loan Status
-![Loan Amount vs Loan Status](loanamt_vs_loanstat.png)
+![Loan Amount vs Loan Status](images/loanamt_vs_loanstat.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion_mat.png)
